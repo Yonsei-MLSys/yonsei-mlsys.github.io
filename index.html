@@ -3,6 +3,30 @@ layout: default
 title: Home
 ---
 
+<style>
+  .container-home {
+    
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    line-height: 2.0;
+  }
+</style>
+
+<div class="container-home">
+  <h3>Welcome to the Yonsei MLSys Student Group Webpage!</h3>
+  <p>
+    We are dedicated to exploring diverse aspects of machine learning and computational systems while fostering a vibrant social community for graduate and undergraduate students interested in computer science at Yonsei University.
+  </p>
+  <p>
+    Feel free to reach out with any questions at <a href="mailto:kiung@gmail.com" class="email-link">kiung@gmail.com</a>.
+  </p>
+</div>
+
+<br>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -19,7 +43,7 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
   {% else %}
@@ -34,4 +58,4 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->

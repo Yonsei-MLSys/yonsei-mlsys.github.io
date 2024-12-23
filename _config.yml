@@ -6,12 +6,15 @@ url:                 https://yonsei-mlsys.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+future: true
+published: true
+
 
 # About/contact
 author:
   name:              Yonsei MLSys
   url:               https://yonsei-mlsys.github.io
-  email:             kiung@gmail.com
+  email:             kiung@yonsei.ac.kr
 
 # Gems
 plugins:
