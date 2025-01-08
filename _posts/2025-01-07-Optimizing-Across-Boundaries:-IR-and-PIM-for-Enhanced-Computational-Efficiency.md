@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DL Compiler and Compiler Optimization
+title: "Optimizing Across Boundaries: IR and PIM for Enhanced Computational Efficiency"
 ---
 
 <h3>
