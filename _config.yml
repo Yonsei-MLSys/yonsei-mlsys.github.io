@@ -4,7 +4,7 @@ tagline:             'Student Group'
 description:         'Yonsei MLSys Student Group'
 url:                 https://yonsei-mlsys.github.io
 baseurl:             ''
-paginate:            3
+paginate:            1000
 permalink:           pretty
 future: true
 published: true
