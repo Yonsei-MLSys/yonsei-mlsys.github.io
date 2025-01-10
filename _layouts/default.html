@@ -9,15 +9,16 @@
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <img src="/public/yonsei-logo.svg" alt="Yonsei" width="30" style="margin-right: 10px; vertical-align: middle;">
-            <a href="{{ site.baseurl }}/" title="Home" style="display: inline-flex; align-items: center;">
+        <div class="container" style="display: flex; align-items: center;">
+          <img src="/public/yonsei-logo.svg" alt="Yonsei" width="30" style="margin-right: 10px;">
+          <h3 class="masthead-title" style="display: flex; align-items: center; margin: 0;">
+            <a href="{{ site.baseurl }}/" title="Home" style="text-decoration: none;">
               {{ site.title }}
             </a>
-            <small style="vertical-align: middle;">{{ site.tagline }}</small>
+            <small style="margin-left: 10px;">{{ site.tagline }}</small>
           </h3>
         </div>
+        
       </div>
 
       <div class="container content">
