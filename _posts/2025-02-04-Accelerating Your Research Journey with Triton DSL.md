@@ -13,5 +13,5 @@ Many state-of-the-art AI models, including DeepSeek and FlashAttention, leverage
 
 For those seeking to accelerate their machine learning workloads, Triton provides an intuitive yet highly expressive approach to kernel development, bridging the gap between productivity and performance. Whether you're optimizing deep learning frameworks or developing custom operations, Triton DSL empowers you to push the boundaries of computational efficiency.
 
-[PPT]()
+[PPT](https://docs.google.com/presentation/d/12JJ_gxDOWckU8C9-CHhde7DeKjdbcQlDvrauT9RqInc/edit?usp=sharing)
 [CV](https://quqqu.github.io/curriculum-vitae/)
