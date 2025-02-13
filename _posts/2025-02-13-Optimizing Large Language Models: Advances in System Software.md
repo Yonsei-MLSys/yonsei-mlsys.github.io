@@ -13,5 +13,5 @@ We discuss key innovations such as PagedAttention (vLLM) for memory-efficient in
 These approaches enable higher throughput, lower latency, and reduced hardware costs, making LLM deployment more scalable.
 Finally, we examine the real-world impact of these techniques and future directions in LLM system optimization.
 
-[PPT](https://docs.google.com/presentation/d/1MER8JLN6Y59lY0La_NNuup5dLZiITWFI/edit?usp=sharing&ouid=115162083370105848072&rtpof=true&sd=true)
+[PPT](https://drive.google.com/file/d/1JV605D35TSxzAVYLJG0ONLL7pLUgJrVJ/view?usp=share_link)
 [CV](https://sites.google.com/yonsei.ac.kr/heelim/profile)
