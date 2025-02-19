@@ -13,5 +13,5 @@ In this seminar, I will share my journey through computer vision research, from 
 [CV](https://sites.google.com/view/hello-jinwoo)
 
 <h6>
-    Catering Courtesy of ASO Lab
+    <i>Catering Courtesy of ASO Lab</i>
 </h6>

@@ -17,5 +17,5 @@ Finally, we examine the real-world impact of these techniques and future directi
 [CV](https://sites.google.com/yonsei.ac.kr/heelim/profile)
 
 <h6>
-    Catering Courtesy of ASO Lab
+    <i>Catering Courtesy of ASO Lab</i>
 </h6>

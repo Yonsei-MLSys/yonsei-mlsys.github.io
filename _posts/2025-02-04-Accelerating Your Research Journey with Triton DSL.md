@@ -17,5 +17,5 @@ For those seeking to accelerate their machine learning workloads, Triton provide
 [CV](https://quqqu.github.io/curriculum-vitae/)
 
 <h6>
-    Catering Courtesy of ASO Lab
+    <i>Catering Courtesy of ASO Lab</i>
 </h6>
