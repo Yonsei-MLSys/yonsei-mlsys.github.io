@@ -12,6 +12,7 @@ In this seminar, I will share my journey through computer vision research, from 
 [PPT](https://docs.google.com/presentation/d/1xAs268PnVFB055p23IOLq1qKxfavYr5k/edit?usp=share_link&ouid=111948851444227468135&rtpof=true&sd=true)
 [CV](https://sites.google.com/view/hello-jinwoo)
 
-<h6>
-    <i>Catering Courtesy of ASO Lab</i>
-</h6>
+
+<i>
+    Catering Courtesy of ASO Lab
+</i>
