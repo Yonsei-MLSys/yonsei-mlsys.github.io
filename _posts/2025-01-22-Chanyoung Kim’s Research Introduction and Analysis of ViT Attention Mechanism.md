@@ -13,5 +13,5 @@ This presentation provides a brief introduction to the research conducted by Cha
 [CV](https://kochanha.github.io/)
 
 <i>
-    Catering Courtesy of ASO Lab
+    Catering Courtesy of <a href="https://sites.google.com/view/asolabysu/home">ASO Lab</a>
 </i>
