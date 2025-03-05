@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Data to ML: Opportunities in Data Systems for the ML Lifecycle
+title: "From Data to ML: Opportunities in Data Systems for the ML Lifecycle"
 ---
 
 <h5>
