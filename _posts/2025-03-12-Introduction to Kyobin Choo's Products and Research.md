@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Introduction to Kyobin Choo's Products and Research"
