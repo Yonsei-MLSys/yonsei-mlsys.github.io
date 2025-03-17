@@ -4,7 +4,7 @@ title: Utilization and Suggestions for Frameworks in Deep Learning Research
 ---
 
 <h5>
-    Sejong Yang - CIP Lab, CS, Yonsei Univiersity
+    Sejong Yang - CIP Lab, CS, Yonsei University
 </h5>
 
 This presentation explores the objectives pursued in deep learning research and the tools utilized to achieve them. It provides practical tips for machine learning researchers and offers system researchers insights into the workflow of machine learning research. The tools introduced include Slurm, Docker, Conda, Git, WandB, PyTorch, and PyTorch-Lightning.

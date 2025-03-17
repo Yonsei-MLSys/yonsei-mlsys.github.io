@@ -4,7 +4,7 @@ title: Accelerating Your Research Journey with Triton DSL
 ---
 
 <h5>
-    Kiung Jung - ASO Lab, CS, Yonsei Univiersity
+    Kiung Jung - ASO Lab, CS, Yonsei University
 </h5>
 
 In the rapidly evolving landscape of deep learning and high-performance computing, Triton emerges as a powerful Python-based domain-specific language (DSL) for writing highly optimized GPU kernels with ease. By abstracting away much of the complexity of traditional CUDA programming, Triton enables researchers and developers to write efficient, high-performance code with minimal effort.

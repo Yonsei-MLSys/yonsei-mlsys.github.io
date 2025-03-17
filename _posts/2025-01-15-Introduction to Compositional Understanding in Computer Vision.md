@@ -4,7 +4,7 @@ title: Introduction to Compositional Understanding in Computer Vision
 ---
 
 <h5>
-    Jinwoo Kim - CIP Lab, CS, Yonsei Univiersity
+    Jinwoo Kim - CIP Lab, CS, Yonsei University
 </h5>
 
 This presentation provides a brief introduction of a resrach domain, called “compositional understanding in computer vision.”

@@ -4,7 +4,7 @@ title: "Optimizing Large Language Models: Advances in System Software"
 ---
 
 <h5>
-    Heelim Choi - Core Lab, EE, Yonsei Univiersity
+    Heelim Choi - Core Lab, EE, Yonsei University
 </h5>
 
 Large Language Models (LLMs) have revolutionized AI applications, yet their high computational and memory demands pose significant challenges in inference and deployment.

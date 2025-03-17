@@ -4,7 +4,7 @@ title: Chanyoung Kim’s Research Introduction and Analysis of ViT Attention Mec
 ---
 
 <h5>
-    Chanyoung Kim - MICV Lab, AI, Yonsei Univiersity
+    Chanyoung Kim - MICV Lab, AI, Yonsei University
 </h5>
 
 This presentation provides a brief introduction to the research conducted by Chanyoung Kim. His work spans diverse areas, including audio-visual representation, image semantic segmentation, and medical imaging. Additionally, it addresses fundamental questions regarding the ViT attention mechanism and includes an in-depth analysis of these aspects.
