@@ -11,3 +11,7 @@ The recently proposed racetrack architecture based on trapped-ion qubits by Quan
 
 [PPT](https://docs.google.com/presentation/d/1wng-Hd4IH1ve9msz-gc3WjvzOWVxBJiz/edit?usp=share_link&ouid=111948851444227468135&rtpof=true&sd=true)
 [CV](https://enhyeok.notion.site/Enhyeok-Jang-9f594ec32719477fa5ab8cf0f517a642)
+
+<i>
+    Invited Talk
+</i>
