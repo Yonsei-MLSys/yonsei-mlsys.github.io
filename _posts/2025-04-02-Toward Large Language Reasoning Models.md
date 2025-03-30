@@ -14,5 +14,6 @@ This talk covers post-training techniques aimed at enhancing the reasoning capab
 
 <i>
     Catering Courtesy of <a href="http://corelab.or.kr/index.php">CoreLab</a>
+    
     Invited Talk
 </i>
