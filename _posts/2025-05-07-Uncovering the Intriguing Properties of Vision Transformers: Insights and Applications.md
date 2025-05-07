@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uncovering the Intriguing Properties of Vision Transformers: Insights and Applications
+title: "Uncovering the Intriguing Properties of Vision Transformers: Insights and Applications"
 ---
 
 <h5>
