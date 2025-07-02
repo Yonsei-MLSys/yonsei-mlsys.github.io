@@ -4,7 +4,7 @@ title: "Taming Multi-dimensional Parallelism: Communication Compression & Config
 ---
 
 <h5>
-    Jayong Song - eSCaL, EE, Seoul National University
+    Jayong Song - AISys, EE, Seoul National University
 </h5>
 
 Training today’s large language models (LLMs) demands thousands of GPUs orchestrated with multi-dimensional parallelism such as 3D/5D parallelism.
