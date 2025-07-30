@@ -12,3 +12,7 @@ This talk explores how these layers interact to support training and serving at 
 
 <!-- [PPT](https://drive.google.com/file/d/1v1rePk53w5xKd5fy6fIYRitVxWEqDH7z/view?usp=share_link) -->
 [CV](https://sites.google.com/yonsei.ac.kr/heelim/profile)
+
+<i>
+    Catering Courtesy of <a href="http://corelab.or.kr/index.php">CoreLab</a>
+</i>
