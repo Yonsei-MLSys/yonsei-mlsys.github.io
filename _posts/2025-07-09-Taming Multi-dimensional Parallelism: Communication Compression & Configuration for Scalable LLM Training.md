@@ -17,7 +17,7 @@ This talk brings together two complementary systems that remove the twin roadblo
 Together, Optimus-CC and Pipette show that principled communication compression and topology-aware configuration are both necessary and synergistic for unlocking fast, memory-efficient, and scalable LLM training.
 I want to share the key algorithmic insights of the above papers and some details of recent parallelism with Mixture-of-Expert (MoE) models for future research.
 
-<!-- [PPT](https://docs.google.com/presentation/d/1wng-Hd4IH1ve9msz-gc3WjvzOWVxBJiz/edit?usp=share_link&ouid=111948851444227468135&rtpof=true&sd=true) -->
+[PPT](https://drive.google.com/file/d/1H1PcCZtoAvq57aV7sSuXZQyvBWnMiTYz/view?usp=sharing)
 [CV](https://drive.google.com/file/d/1LckkOslFFCAfksnh6m8UHC7SoGLHESq9/view?usp=sharing)
 
 <i>
