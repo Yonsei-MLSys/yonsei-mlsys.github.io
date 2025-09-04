@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who/What is \“NPU\”? : There seems to be a serious typo. CPU? GPU? NPU!"
+title: "Who/What is NPU? : There seems to be a serious typo. CPU? GPU? NPU!"
 ---
 
 <h5>
