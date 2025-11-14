@@ -11,7 +11,3 @@ This talk will explore the theoretical properties of discrete diffusion models a
 
 [PPT](https://drive.google.com/file/d/1wFhl4L6Nx9GAhBlzxFILPPODsnOfZ65s/view?usp=sharing)
 [CV](https://drive.google.com/file/d/1QMnj4JgkLrx2rbW7kf7hiAOpZ1SJu55j/view?usp=sharing)
-
-<i>
-    Catering Courtesy of <a href="https://micv.yonsei.ac.kr/">MICV Lab</a>
-</i>
