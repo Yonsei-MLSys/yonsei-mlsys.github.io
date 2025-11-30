@@ -16,4 +16,6 @@ This talk provides an overview of low-precision floating-point formats used in G
 
 <i>
     Catering Courtesy of <a href="https://sites.google.com/view/asolabysu/home">ASO Lab</a>
+    <br>
+    Invited Talk
 </i>
