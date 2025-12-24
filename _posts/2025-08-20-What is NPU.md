@@ -4,7 +4,7 @@ title: "Who/What is NPU? : There seems to be a serious typo. CPU? GPU? NPU!"
 ---
 
 <h5>
-    Hyunkyu Kang - ASOLab, AI, Yonsei University
+    Hyunkyu Kang - ASOLab, CS, Yonsei University
 </h5>
 
 As AI workloads grow in scale and diversity, low-level domain-specific architectural support and system-level optimizations have become essential. This talk introduces the fundamentals of Neural Processing Unit (NPU) architectures. Starting from why NPUs are an active research area, then introduce brief overview of several core categories of NPU architecture. After that, this talk will dive into systolic array’s several dataflows in cycle-by-cycle manner. Finally, this presentation will introduce Hyunkyu’s recent research interest and ongoing research idea. Attendees will gain a basic understanding of NPUs and how AI workloads are executed at the hardware level.
