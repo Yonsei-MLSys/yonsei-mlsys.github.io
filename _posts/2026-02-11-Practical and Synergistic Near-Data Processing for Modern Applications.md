@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Practical and Synergistic Near-Data Processing for Modern Applications"
